@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Emin and I'm an Atlassian Forge Specialist from Frankfurt.</p>
+<p align="left">My name is Emin and I'm an Atlassian Forge Specialist @ONETEEM from Frankfurt.</p>
 
 ###
 
